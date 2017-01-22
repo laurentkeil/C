@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1412767736 source:c:\users\laurent\dropbox\info\c\testc++\main.cpp
+	"main.h"
+
+1412765016 c:\users\laurent\dropbox\info\c\testc++\main.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"Personnage.h"
+
+1412766828 c:\users\laurent\dropbox\info\c\testc++\include\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1412766702 c:\users\laurent\dropbox\info\c\testc++\include\arme.h
+	<iostream>
+	<string>
+
+1412766678 source:c:\users\laurent\dropbox\info\c\testc++\src\arme.cpp
+	"Arme.h"
+
+1412766841 source:c:\users\laurent\dropbox\info\c\testc++\src\personnage.cpp
+	"Personnage.h"
+

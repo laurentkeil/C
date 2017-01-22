@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411990182 source:c:\users\laurent\dropbox\info\c\monprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"main.h"
+
+1411986069 c:\users\laurent\dropbox\info\c\monprog\main.h
+
